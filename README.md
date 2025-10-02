@@ -26,7 +26,7 @@ Analisis dilakukan menggunakan dataset penjualan (source: [RevoU mini course dat
 
 3. **How does deal size (small, medium, large) correlate with total sales?**  
    - Analisis: menghitung kontribusi (%) setiap deal size.  
-   - Visualisasi: pie chart atau stacked bar chart.  
+   - Visualisasi: Table 
    - **Insight:** Deal size "Medium" menyumbang persentase terbesar terhadap total penjualan yaitu sebesar 59.83%. Meskipun Deal Size Large memberikan dampak signifikan sesekali, tetapi keberlanjutan pendapatan justru banyak didorong oleh Deal Size Medium yang terjadi secara konsisten. Hal ini menunjukkan bahwa strategi bisnis sebaiknya fokus menjaga dan memperbanyak Deal Size Medium. karena segmen inilah yang menjadi pendorong utama dalam penjualan.
 
 ![Kontribusi Deal Size](images/table-deal-size.JPG)
